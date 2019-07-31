@@ -17,6 +17,13 @@ Imports
 General
 ================================= */
 
+p{
+	font-size: 15px;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
 body{
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
